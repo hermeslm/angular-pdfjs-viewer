@@ -11,11 +11,11 @@
   "main": "dist/angular-pdfjs-viewer.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/legalthings/angular-pdfjs-viewer.git"
+    "url": "https://github.com/hermeslm/pdf.js-viewer.git"
   },
   "dependencies": {
     "angular": "^1.5.8",
-    "pdf.js-viewer": "~1.6.211"
+    "pdf.js-viewer": "https://github.com/hermeslm/pdf.js-viewer.git"
   },
   "ignore": [
     "**/.*",
