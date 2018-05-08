@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "angular": "^1.5.8",
-    "pdf.js-viewer": "https://github.com/hermeslm/pdf.js-viewer.git"
+    "pdf.js-viewer": "https://github.com/hermeslm/pdf.js-viewer.git#master"
   },
   "ignore": [
     "**/.*",
